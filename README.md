@@ -21,7 +21,7 @@ $ curl "http://localhost:8080"
 ## 4. Time
 Total time spend on this task: 3.5
 Take time to research about: 
-	*	How to create Go web service
-	*	Install Go
-	*	Create generic methods, something simmilar to .net but i found a something simmilar
+* How to create Go web service
+* Install Go
+* Create generic methods, something simmilar to .net but i found a something simmilar
 	
